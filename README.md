@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bellacosa03
 - 👀 I’m interested in ...aprender novas linguagens e  mostrar meus projetos
 - 🌱 I’m currently learning ...arquivos em liguagem C
-- 💞️ I’m looking to collaborate in lógigica  e alguns projetos que pretendo postar
+- 💞️ I’m looking to collaborate in lógica  e alguns projetos que pretendo postar
 
 - 📫 How to reach me ...
 
